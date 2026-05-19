@@ -12,7 +12,7 @@ const Footer = () => {
     ];
 
     return (
-        <footer className="relative bg-[#e9e5db] text-[#071d49] pt-12 pb-8 overflow-hidden border-t border-[#d8d5cf]">
+        <footer className="relative bg-[#e9e5db] text-[#071d49] pt-18 pb-8 overflow-hidden border-t border-[#d8d5cf]">
 
             {/* 1. THE EXTRAORDINARY TYPOGRAPHIC WATERMARK */}
             <div className="absolute bottom-[-10%] left-1/2 -translate-x-1/2 w-full select-none pointer-events-none z-0 overflow-hidden text-center hidden md:block">
